@@ -1,6 +1,7 @@
 ## Hi there 👋  my name is Dileepa Ranawake
 
 [![substack channel link](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.dileeparanawake.com/)
+[![linkedin channel link](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dileepa-ranawake/)
 
 <!--
 **dileeparanawake/dileeparanawake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
