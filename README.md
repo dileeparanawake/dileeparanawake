@@ -17,11 +17,11 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 
 ## 💻 Featured Projects
 
-- **[Astro Tutorial](https://github.com/dileeparanawake/astro-tutorial)**  
-  _Built with Astro_ – Learned Astro basics and deployed a simple site to GitHub Pages.
+- **[Astro Blog](https://github.com/dileeparanawake/astro-blog)**  
+  _Built with Astro_ – Astro basics and deployed a simple site to GitHub Pages.
 
 - **[Next.js Dashboard](https://github.com/dileeparanawake/nextjs-dashboard)**  
-  _Next.js + TypeScript_ – Practicing modern dashboard layout and data rendering.
+  _Next.js + TypeScript_ – Built modern dashboard layout and data rendering.
 
 - **[Jammming](https://github.com/dileeparanawake/Jammming)**  
   _React App_ – Search the Spotify API, build custom playlists, and save them to your Spotify account.
