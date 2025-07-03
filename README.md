@@ -13,7 +13,7 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 **Frontend**: React, Next.js, HTML, CSS, JavaScript (ES6+), Tailwind CSS, ARIA, Flexbox  
 **Backend**: Node.js, Express.js, REST APIs, JWT/OAuth, Passport.js  
 **Tools**: Git, GitHub, Vercel, Posthog, Airtable, Figma, Jest, Vitest  
-**Other**: TypeScript (basic), Python(basic), SQL (PostgreSQL), Docker (basic)
+**Other**: TypeScript, Python, SQL (PostgreSQL), Docker
 
 ## 💻 Featured Projects
 
