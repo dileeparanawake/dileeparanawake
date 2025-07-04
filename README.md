@@ -37,7 +37,7 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 
 ## 👉🏽 Collaborate With Me
 
-Open to remote internships & junior engineering roles (preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
+Open to remote internships & junior engineering roles (remote - first preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
 
 **Email:** [dileeparanawake@icloud.com](mailto:dileeparanawake@icloud.com)
 
