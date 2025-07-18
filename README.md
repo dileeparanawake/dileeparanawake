@@ -17,6 +17,9 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 
 ## 💻 Featured Projects
 
+- **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)**  
+  _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
+
 - **[Astro Blog](https://github.com/dileeparanawake/astro-blog)**  
   _Built with Astro_ – Astro basics and deployed a simple site to GitHub Pages.
 
