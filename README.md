@@ -20,11 +20,11 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 - **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)**  
   _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
 
-- **[Next.js Dashboard](https://github.com/dileeparanawake/nextjs-dashboard)**  
-  _Next.js + TypeScript_ – Built modern dashboard layout and data rendering.
-
 - **[Jammming](https://github.com/dileeparanawake/Jammming)**  
   _React App_ – Search the Spotify API, build custom playlists, and save them to your Spotify account.
+
+- **[Next.js Dashboard](https://github.com/dileeparanawake/nextjs-dashboard)**  
+  _Next.js + TypeScript_ – Built modern dashboard layout and data rendering.
 
 ## 👉🏽 Collaborate With Me
 
