@@ -26,12 +26,6 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 - **[Jammming](https://github.com/dileeparanawake/Jammming)**  
   _React App_ – Search the Spotify API, build custom playlists, and save them to your Spotify account.
 
-## 🎯 Goals
-
-- 📈 Build real-world full-stack apps
-- 🎓 Learn through hands-on collaboration.
-- 💼 Land a remote or hybrid junior software engineer / internship role.
-
 ## 👉🏽 Collaborate With Me
 
 Open to remote internships & junior engineering roles (remote - first preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
