@@ -10,10 +10,12 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 
 ## 🛠️ Tech Stack
 
-**Frontend**: React, Next.js, HTML, CSS, JavaScript (ES6+), Tailwind CSS, ARIA, Flexbox  
-**Backend**: Node.js, Express.js, REST APIs, JWT/OAuth, Passport.js  
-**Tools**: Git, GitHub, Vercel, Posthog, Airtable, Figma, Jest, Vitest  
-**Other**: TypeScript, Python, SQL (PostgreSQL), Docker
+**Frontend:** Next.js, React, HTML, CSS, JavaScript (ES6+), TypeScript, React Query, Tailwind, Accessibility (WCAG / ARIA), Flexbox  
+**Backend:** Node.js, Express.js, PostgreSQL + Drizzle ORM, REST APIs, BetterAuth.js (OAuth / Sessions), JWT/OAuth, Passport.js, Zod (Validation)  
+**Testing & Quality:** Vitest, Jest, Test-Driven Development (TDD)  
+**DevOps & Deployment:** Docker, GitHub Actions, Vercel (manual CI/CD workflow)  
+**Tooling & Analytics:** Git, GitHub, Posthog, Airtable, VS Code, Postman, CLI  
+**Design & UX:** Figma (prototyping / wireframing)
 
 ## 💻 Featured Projects
 
