@@ -10,7 +10,7 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js, React, HTML, CSS, JavaScript (ES6+), TypeScript, React Query, Tailwind, Accessibility (WCAG / ARIA), Flexbox  
+**Frontend:** Next.js, React, HTML, CSS, JavaScript (ES6+), TypeScript, React Query, Tailwind, Accessibility (WCAG / ARIA)  
 **Backend:** Node.js, Express.js, PostgreSQL + Drizzle ORM, REST APIs, BetterAuth.js (OAuth / Sessions), JWT/OAuth, Passport.js, Zod (Validation)  
 **Testing & Quality:** Vitest, Jest, Test-Driven Development (TDD)  
 **DevOps & Deployment:** Docker, GitHub Actions, Vercel (manual CI/CD workflow)  
