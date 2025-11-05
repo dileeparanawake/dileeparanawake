@@ -10,12 +10,18 @@ at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/d
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js, React, HTML, CSS, JavaScript (ES6+), TypeScript, React Query, Tailwind, Accessibility (WCAG / ARIA)  
-**Backend:** Node.js, Express.js, PostgreSQL + Drizzle ORM, REST APIs, BetterAuth.js (OAuth / Sessions), JWT/OAuth, Passport.js, Zod (Validation)  
-**Testing & Quality:** Vitest, Jest, Test-Driven Development (TDD)  
-**DevOps & Deployment:** Docker, GitHub Actions, Vercel (manual CI/CD workflow)  
-**Tooling & Analytics:** Git, GitHub, Posthog, Airtable, VS Code, Postman, CLI  
-**Design & UX:** Figma (prototyping / wireframing)
+- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Redux, React Query, HTML, CSS, Tailwind, Accessibility (WCAG / ARIA)
+- **Backend:** Node.js, Express.js, REST APIs, BetterAuth.js (OAuth / Sessions), JWT/OAuth, Passport.js, Zod (Validation)
+- **Database:** SQL, SQLite, PostgreSQL + Drizzle ORM (schema & migrations)
+- **Testing & Quality:** Vitest, Jest, Test-Driven Development (TDD), WCAG Compliance
+- **DevOps / Deployment:** Docker, GitHub Actions, Vercel (manual CI/CD workflow)
+- **Analytics & Collaboration Tools:** Posthog (product analytics), Parabol (retrospectives), FigJam, Excalidraw, Jira, GitHub, Postman
+- **Practices & Paradigms:** OOP, Modular Design, DRY, Separation of Concerns (SOC), Familiarity with SOLID & Functional Programming, Lean and iterative delivery, Value-driven development
+- **Ways of Working:** Agile, Kanban, Scrum, Scrumban, Lean, Cross-functional collaboration, Product-engineering alignment, Stakeholder communication
+- **UX & Product:** Figma, Prototyping, Wireframes, User research, User-centred and data-informed design, Product discovery, Customer development, Translating user and business needs into product decisions.
+- **Mentoring & Leadership:** Remotely led a team of five, mentored Hull University business students, and delivered TEDx and public talks.
+
+Experienced in startup environments, balancing user needs, technical feasibility, and business goals.
 
 ## 💻 Featured Projects
 
