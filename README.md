@@ -25,9 +25,6 @@ Experienced in startup environments, balancing user needs, technical feasibility
 
 ## 💻 Featured Projects
 
-- **[Vial Layer Map](https://github.com/dileeparanawake/vial-layers)** · [try it live](https://dileeparanawake.github.io/vial-layers/)  
-  _JavaScript, one HTML file_ – See every layer of a Vial keyboard layout on one screen, in plain words. No install, nothing uploaded.
-
 - **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)**  
   _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
 
@@ -36,6 +33,9 @@ Experienced in startup environments, balancing user needs, technical feasibility
 
 - **[Next.js Dashboard](https://github.com/dileeparanawake/nextjs-dashboard)**  
   _Next.js + TypeScript_ – Built modern dashboard layout and data rendering.
+
+- **[Vial Keyboard Layers](https://github.com/dileeparanawake/vial-keyboard-layers)** · [try it live](https://dileeparanawake.github.io/vial-keyboard-layers/)  
+  _JavaScript, one HTML file_ – See every layer of a Vial keyboard layout on one screen, in plain words. No install, nothing uploaded.
 
 ## 👉🏽 Collaborate With Me
 
