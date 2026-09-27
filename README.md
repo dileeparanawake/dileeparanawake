@@ -25,6 +25,9 @@ Experienced in startup environments, balancing user needs, technical feasibility
 
 ## 💻 Featured Projects
 
+- **[Vial Layer Map](https://github.com/dileeparanawake/vial-layers)** · [try it live](https://dileeparanawake.github.io/vial-layers/)  
+  _JavaScript, one HTML file_ – See every layer of a Vial keyboard layout on one screen, in plain words. No install, nothing uploaded.
+
 - **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)**  
   _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
 
@@ -36,7 +39,7 @@ Experienced in startup environments, balancing user needs, technical feasibility
 
 ## 👉🏽 Collaborate With Me
 
-Open to remote internships & junior engineering roles (remote - first preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
+Open to remote engineering roles (remote - first preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
 
 **Email:** [dileeparanawake@icloud.com](mailto:dileeparanawake@icloud.com)
 
