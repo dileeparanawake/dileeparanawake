@@ -37,6 +37,9 @@ Experienced in startup environments, balancing user needs, technical feasibility
 - **[Vial Keyboard Layers](https://github.com/dileeparanawake/vial-keyboard-layers)** · [try it live](https://dileeparanawake.github.io/vial-keyboard-layers/)  
   _JavaScript, one HTML file_ – See every layer of a Vial keyboard layout on one screen, in plain words. No install, nothing uploaded.
 
+- **[KEF Remote](https://github.com/dileeparanawake/kef-remote)** · [download the app](https://github.com/dileeparanawake/kef-remote/releases/latest)  
+  _Swift, macOS_ – A lightweight Mac app to control KEF LSX speakers over the network: power on and off, volume up and down, and mute, from the keyboard.
+
 ## 👉🏽 Collaborate With Me
 
 Open to remote engineering roles (remote - first preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
