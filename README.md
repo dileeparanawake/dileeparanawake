@@ -28,17 +28,17 @@ Experienced in startup environments, balancing user needs, technical feasibility
 - **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)** · [try it live](https://littlesteps-ai.com)  
   _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
 
-- **[Jammming](https://github.com/dileeparanawake/Jammming)**  
-  _React App_ – Search the Spotify API, build custom playlists, and save them to your Spotify account.
-
-- **[Next.js Dashboard](https://github.com/dileeparanawake/nextjs-dashboard)**  
-  _Next.js + TypeScript_ – Built modern dashboard layout and data rendering.
-
 - **[Vial Keyboard Layers](https://github.com/dileeparanawake/vial-keyboard-layers)** · [try it live](https://dileeparanawake.github.io/vial-keyboard-layers/)  
   _JavaScript, one HTML file_ – See every layer of a Vial keyboard layout on one screen, in plain words. No install, nothing uploaded.
 
 - **[KEF Remote](https://github.com/dileeparanawake/kef-remote)** · [download the app](https://github.com/dileeparanawake/kef-remote/releases/latest)  
   _Swift, macOS_ – A lightweight Mac app to control KEF LSX speakers over the network: power on and off, volume up and down, and mute, from the keyboard.
+
+- **[Jammming](https://github.com/dileeparanawake/Jammming)**  
+  _React App_ – Search the Spotify API, build custom playlists, and save them to your Spotify account.
+
+- **[Next.js Dashboard](https://github.com/dileeparanawake/nextjs-dashboard)**  
+  _Next.js + TypeScript_ – Built modern dashboard layout and data rendering.
 
 ## 👉🏽 Work With Me
 
