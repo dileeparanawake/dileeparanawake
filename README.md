@@ -25,7 +25,7 @@ Experienced in startup environments, balancing user needs, technical feasibility
 
 ## 💻 Featured Projects
 
-- **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)**  
+- **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)** · [try it live](https://littlesteps-ai.com)  
   _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
 
 - **[Jammming](https://github.com/dileeparanawake/Jammming)**  
