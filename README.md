@@ -40,9 +40,9 @@ Experienced in startup environments, balancing user needs, technical feasibility
 - **[KEF Remote](https://github.com/dileeparanawake/kef-remote)** · [download the app](https://github.com/dileeparanawake/kef-remote/releases/latest)  
   _Swift, macOS_ – A lightweight Mac app to control KEF LSX speakers over the network: power on and off, volume up and down, and mute, from the keyboard.
 
-## 👉🏽 Collaborate With Me
+## 👉🏽 Work With Me
 
-Open to remote engineering roles (remote - first preference) and hybrid roles (Hull, Leeds, York, London) - particularly that focus on using AI in education, mental health, healthcare and AI user interface innovation.
+I build web apps end to end, from the first version of your product to a new feature in the one you already have. Working on something like that? [Get in touch through my portfolio](https://dileeparanawake.com/contact).
 
 **Email:** [dileeparanawake@icloud.com](mailto:dileeparanawake@icloud.com)
 
