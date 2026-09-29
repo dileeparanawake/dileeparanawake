@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Dileepa Ranawake
 
 [![linkedin channel link](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dileepa-ranawake/)
-[![Hashnode blog link](https://img.shields.io/badge/hashnode%20blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF)](https://www.dileeparanawake.com)
+[![Portfolio: dileeparanawake.com](https://img.shields.io/badge/Portfolio-dileeparanawake.com-FCC803?style=for-the-badge&labelColor=0B0F1A)](https://dileeparanawake.com)
 
 ## 🙋🏽‍♂️ About Me
 
