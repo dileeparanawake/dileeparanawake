@@ -1,8 +1,8 @@
 ## Hi there 👋 my name is Dileepa Ranawake
 
 [![linkedin channel link](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dileepa-ranawake/)
-[![Portfolio: dileeparanawake.com](https://img.shields.io/badge/Portfolio-dileeparanawake.com-FCC803?style=for-the-badge&labelColor=0B0F1A)](https://dileeparanawake.com)
-[![Blog: dileeparanawake.com/writing](https://img.shields.io/badge/Blog-dileeparanawake.com%2Fwriting-FCC803?style=for-the-badge&labelColor=0B0F1A)](https://dileeparanawake.com/writing/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FCC803?style=for-the-badge)](https://dileeparanawake.com)
+[![Blog](https://img.shields.io/badge/Blog-8B5CF6?style=for-the-badge&logo=rss&logoColor=white)](https://dileeparanawake.com/writing/)
 
 I'm a Full-Stack Software Engineer with a background in startups and product development, based in Hull, UK, working remotely. I help you decide what to build, not just how to build it.
 
