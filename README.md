@@ -2,19 +2,31 @@
 
 [![linkedin channel link](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/dileepa-ranawake/)
 [![Portfolio: dileeparanawake.com](https://img.shields.io/badge/Portfolio-dileeparanawake.com-FCC803?style=for-the-badge&labelColor=0B0F1A)](https://dileeparanawake.com)
+[![Blog: dileeparanawake.com/writing](https://img.shields.io/badge/Blog-dileeparanawake.com%2Fwriting-FCC803?style=for-the-badge&labelColor=0B0F1A)](https://dileeparanawake.com/writing/)
+
+I'm a Full-Stack Software Engineer with a background in startups and product development, based in Hull, UK, working remotely. I help you decide what to build, not just how to build it.
+
+Have an idea for an app, a tool or a new feature? [Book a free 30-minute chat](https://dileeparanawake.com/contact).
 
 ## 🙋🏽‍♂️ About Me
 
-I'm a UK-based full-stack engineer 🇬🇧 I co-founded a [startup](https://youtu.be/-_7hUF_p2CQ?si=zbxa288yXtgzMOf3) that uses AI to make email accessible for Dyslexia & ADHD 🚀 Previously ran a health tech company, am a [TEDx](https://youtu.be/uRVmXBo_Mf0?si=rJld3Ci7x0fxhjuN) speaker and spoke
-at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/dileepa-ranawake_ai-accessibility-neurodiversity-activity-7080591003442655232-2dA-/) 🎤 [Nasa Hackathon Nominee](https://2017.spaceappschallenge.org/challenges/ideate-and-create/bring-your-own-solution/teams/eos) 👾 I'm a neurodiversity advocate and love building products that make the world a better place ❤️ I’m interested in how AI is changing the user-interface — particularly how it can make tools more accessible, enhance learning, and support mental health 👨🏽‍🏫 When I'm not coding, I love hiking / running in the outdoors 🌳 spending time with my little daughter and skiing ⛷️
+I co-founded a [startup](https://youtu.be/-_7hUF_p2CQ?si=zbxa288yXtgzMOf3) that uses AI to make email accessible for Dyslexia & ADHD 🚀 Previously ran a health tech company, am a [TEDx](https://youtu.be/uRVmXBo_Mf0?si=rJld3Ci7x0fxhjuN) speaker and spoke
+at Warwick University on [AI and Accessibility](https://www.linkedin.com/posts/dileepa-ranawake_ai-accessibility-neurodiversity-activity-7080591003442655232-2dA-/) 🎤 [Nasa Hackathon Nominee](https://2017.spaceappschallenge.org/challenges/ideate-and-create/bring-your-own-solution/teams/eos) 👾 I'm a neurodiversity advocate and love building products that make the world a better place ❤️ I’m interested in how AI is changing the user-interface - particularly how it can make tools more accessible, enhance learning, and support mental health 👨🏽‍🏫 When I'm not coding, I love hiking / running in the outdoors 🌳 spending time with my little daughter and skiing ⛷️
+
+## 🤝 How I help
+
+1. **Get ideas off the ground (MVP):** a lean first version, without bloat that might cost you later
+2. **Build custom tools or AI workflows:** map your processes and shape a tool around the way you work
+3. **Improve existing apps:** add features, fix bugs, refactor and stabilise the code
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, Redux, React Query, HTML, CSS, Tailwind, Accessibility (WCAG / ARIA)
-- **Backend:** Node.js, Express.js, REST APIs, BetterAuth.js (OAuth / Sessions), JWT/OAuth, Passport.js, Zod (Validation)
+- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, React Query, HTML, CSS, Tailwind, Accessibility (WCAG / ARIA)
+- **Backend:** Node.js, REST APIs, BetterAuth.js (OAuth / Sessions), JWT/OAuth, Zod (Validation)
+- **AI:** OpenAI API, LLM features, MCP servers
 - **Database:** SQL, SQLite, PostgreSQL + Drizzle ORM (schema & migrations)
 - **Testing & Quality:** Vitest, Jest, Test-Driven Development (TDD), WCAG Compliance
-- **DevOps / Deployment:** Docker, GitHub Actions, Vercel (manual CI/CD workflow)
+- **DevOps / Deployment:** Docker, GitHub Actions, Vercel, Fly.io
 - **Analytics & Collaboration Tools:** Posthog (product analytics), Parabol (retrospectives), FigJam, Excalidraw, Jira, GitHub, Postman
 - **Practices & Paradigms:** OOP, Modular Design, DRY, Separation of Concerns (SOC), Familiarity with SOLID & Functional Programming, Lean and iterative delivery, Value-driven development
 - **Ways of Working:** Agile, Kanban, Scrum, Scrumban, Lean, Cross-functional collaboration, Product-engineering alignment, Stakeholder communication
@@ -26,7 +38,7 @@ Experienced in startup environments, balancing user needs, technical feasibility
 ## 💻 Featured Projects
 
 - **[LittleSteps AI](https://github.com/dileeparanawake/littlesteps-ai)** · [try it live](https://littlesteps-ai.com)  
-  _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker — for personalised parenting support.
+  _Next.js + TypeScript_ – Full-stack LLM app with auth, prompt history, and Docker - for personalised parenting support.
 
 - **[Vial Keyboard Layers](https://github.com/dileeparanawake/vial-keyboard-layers)** · [try it live](https://dileeparanawake.github.io/vial-keyboard-layers/)  
   _JavaScript, one HTML file_ – See every layer of a Vial keyboard layout on one screen, in plain words. No install, nothing uploaded.
@@ -42,7 +54,7 @@ Experienced in startup environments, balancing user needs, technical feasibility
 
 ## 👉🏽 Work With Me
 
-I build web apps end to end, from the first version of your product to a new feature in the one you already have. Working on something like that? [Get in touch through my portfolio](https://dileeparanawake.com/contact).
+Have an idea for an app, a tool or a new feature? [Book a free 30-minute chat](https://dileeparanawake.com/contact).
 
 **Email:** [dileeparanawake@icloud.com](mailto:dileeparanawake@icloud.com)
 
